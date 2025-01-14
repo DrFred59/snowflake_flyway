@@ -7,3 +7,4 @@ On merge avec "SQUASH & MERGE"
 TEST_002
 - Modif du fichier et 3eme COMMIT
 - Modif du fichier et 4eme COMMIT
+
