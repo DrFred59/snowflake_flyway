@@ -1,6 +1,6 @@
 TEST_001
 - Création du fichier et 1er COMMIT
-- Modif du fichier et 2ème COMMIT
+- Modification du fichier et 2ème COMMIT
 
 On merge avec "SQUASH & MERGE"
 
