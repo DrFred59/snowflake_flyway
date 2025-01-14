@@ -1,0 +1,3 @@
+TEST des merges GIT
+
+--001 : 1ere livraison de ce fichier sur MAIN
