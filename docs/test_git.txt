@@ -1,0 +1,8 @@
+TEST des merges GIT
+
+--001 : 
+    1er COMMIT de ce fichier sur MAIN
+    Puis modi de ce fichier, et 2eme COMMIT
+    1er merger de dev vers main
+
+
